@@ -1,0 +1,12 @@
+dependencies = []
+incompatibilities = []
+
+[metadata]
+id = "com.etherpod.deadlygroundfix"
+version = "1.0.0"
+title = "Deadly Ground Fix"
+description = "A SpiderHeck mod that fixes a bug with deadly ground and insulation."
+authors = [
+    "Etherpod"
+]
+game_version = 1.6

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub Projects\\DeadlyGroundFix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92CBA23E-4FE7-4282-9FFD-5CABA00CD0AF}|DeadlyGroundFix\\DeadlyGroundFix.csproj|c:\\github projects\\deadlygroundfix\\deadlygroundfix\\modmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CBA23E-4FE7-4282-9FFD-5CABA00CD0AF}|DeadlyGroundFix\\DeadlyGroundFix.csproj|solutionrelative:deadlygroundfix\\modmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CBA23E-4FE7-4282-9FFD-5CABA00CD0AF}|DeadlyGroundFix\\DeadlyGroundFix.csproj|c:\\github projects\\deadlygroundfix\\deadlygroundfix\\mw.mod.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92CBA23E-4FE7-4282-9FFD-5CABA00CD0AF}|DeadlyGroundFix\\DeadlyGroundFix.csproj|solutionrelative:deadlygroundfix\\mw.mod.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CBA23E-4FE7-4282-9FFD-5CABA00CD0AF}|DeadlyGroundFix\\DeadlyGroundFix.csproj|c:\\github projects\\deadlygroundfix\\deadlygroundfix\\deadlygroundcollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CBA23E-4FE7-4282-9FFD-5CABA00CD0AF}|DeadlyGroundFix\\DeadlyGroundFix.csproj|solutionrelative:deadlygroundfix\\deadlygroundcollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CBA23E-4FE7-4282-9FFD-5CABA00CD0AF}|DeadlyGroundFix\\DeadlyGroundFix.csproj|c:\\github projects\\deadlygroundfix\\deadlygroundfix\\deadlygroundfix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92CBA23E-4FE7-4282-9FFD-5CABA00CD0AF}|DeadlyGroundFix\\DeadlyGroundFix.csproj|solutionrelative:deadlygroundfix\\deadlygroundfix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CBA23E-4FE7-4282-9FFD-5CABA00CD0AF}|DeadlyGroundFix\\DeadlyGroundFix.csproj|c:\\github projects\\deadlygroundfix\\deadlygroundfix\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CBA23E-4FE7-4282-9FFD-5CABA00CD0AF}|DeadlyGroundFix\\DeadlyGroundFix.csproj|solutionrelative:deadlygroundfix\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\GitHub Projects\\DeadlyGroundFix\\DeadlyGroundFix\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "DeadlyGroundFix\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\GitHub Projects\\DeadlyGroundFix\\DeadlyGroundFix\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "DeadlyGroundFix\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T00:47:39.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeadlyGroundFix.csproj",
+              "DocumentMoniker": "C:\\GitHub Projects\\DeadlyGroundFix\\DeadlyGroundFix\\DeadlyGroundFix.csproj",
+              "RelativeDocumentMoniker": "DeadlyGroundFix\\DeadlyGroundFix.csproj",
+              "ToolTip": "C:\\GitHub Projects\\DeadlyGroundFix\\DeadlyGroundFix\\DeadlyGroundFix.csproj",
+              "RelativeToolTip": "DeadlyGroundFix\\DeadlyGroundFix.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T00:45:16.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeadlyGroundCollision.cs",
+              "DocumentMoniker": "C:\\GitHub Projects\\DeadlyGroundFix\\DeadlyGroundFix\\DeadlyGroundCollision.cs",
+              "RelativeDocumentMoniker": "DeadlyGroundFix\\DeadlyGroundCollision.cs",
+              "ToolTip": "C:\\GitHub Projects\\DeadlyGroundFix\\DeadlyGroundFix\\DeadlyGroundCollision.cs",
+              "RelativeToolTip": "DeadlyGroundFix\\DeadlyGroundCollision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T00:34:16.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mw.mod.toml",
+              "DocumentMoniker": "C:\\GitHub Projects\\DeadlyGroundFix\\DeadlyGroundFix\\mw.mod.toml",
+              "RelativeDocumentMoniker": "DeadlyGroundFix\\mw.mod.toml",
+              "ToolTip": "C:\\GitHub Projects\\DeadlyGroundFix\\DeadlyGroundFix\\mw.mod.toml",
+              "RelativeToolTip": "DeadlyGroundFix\\mw.mod.toml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-05T22:54:39.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModMain.cs",
+              "DocumentMoniker": "C:\\GitHub Projects\\DeadlyGroundFix\\DeadlyGroundFix\\ModMain.cs",
+              "RelativeDocumentMoniker": "DeadlyGroundFix\\ModMain.cs",
+              "ToolTip": "C:\\GitHub Projects\\DeadlyGroundFix\\DeadlyGroundFix\\ModMain.cs",
+              "RelativeToolTip": "DeadlyGroundFix\\ModMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:00:26.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
